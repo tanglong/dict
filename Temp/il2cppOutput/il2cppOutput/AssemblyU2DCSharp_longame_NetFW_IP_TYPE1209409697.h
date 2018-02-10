@@ -1,0 +1,32 @@
+﻿#pragma once
+
+#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+#include <stdint.h>
+
+
+#include "AssemblyU2DCSharp_longame_NetFW_DWORD2825930397.h"
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// longame.NetFW.IP_TYPE
+struct  IP_TYPE_t1209409697  : public DWORD_t2825930397
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
